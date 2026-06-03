@@ -1,0 +1,17 @@
+/* SmartTube AI custom styles */
+.stApp {
+    background: linear-gradient(180deg, #0e1117 0%, #1a1f2e 100%);
+}
+
+h1, h2, h3 {
+    color: #f0f2f6;
+}
+
+[data-testid="stSidebar"] {
+    background-color: #161b22;
+}
+
+.stButton > button[kind="primary"] {
+    background: linear-gradient(90deg, #ff4b4b, #ff6b6b);
+    border: none;
+}
