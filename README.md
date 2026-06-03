@@ -14,3 +14,4 @@ Clone this repository or copy the project files, then install the required depen
 
 ```bash
 pip install streamlit
+<img width="1901" height="964" alt="image" src="https://github.com/user-attachments/assets/c1316d7d-43e1-40c8-9a57-8cd2dbd8c4b3" />
